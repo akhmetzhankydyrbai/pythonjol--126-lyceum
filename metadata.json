@@ -1,0 +1,6 @@
+{
+  "name": "PythonJol - Python-ды нөлден үйрену",
+  "description": "Бағдарламалауды жаңадан бастаушыларға арналған қазақ тіліндегі интерактивті Python оқу платформасы және тренажёрі.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
